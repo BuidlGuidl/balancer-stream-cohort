@@ -57,7 +57,7 @@ const Home: NextPage = () => {
   const desc =
     "We are rewarding up-and-coming high-impact devs for their ongoing contributions to the ecosystem. If you are building something interesting in the BuidlGuidl that uses Balancer, join this telegram and show it off:";
 
-  const tgLink = "";
+  const tgLink = "https://t.me/+JlllhLdDFFVmMDQ5";
 
   return (
     <>
